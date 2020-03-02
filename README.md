@@ -1,7 +1,7 @@
 # Table of Contents 
-PROJECT TITLE 
-DESCRIPTION 
-ABOUT ME  
+- PROJECT TITLE 
+- DESCRIPTION 
+- ABOUT ME  
 
 # Project Title 
 Hello_World Sample
